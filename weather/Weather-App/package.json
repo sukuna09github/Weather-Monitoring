@@ -1,0 +1,16 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Soumyajit Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expressweb": "file:",
+    "hbs": "^4.1.1"
+  }
+}
